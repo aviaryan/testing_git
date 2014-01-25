@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 baseurl: /testing_git
 permalink: none
+author: Avi Aryan
