@@ -1,0 +1,4 @@
+name: Avi Aryan's Blog
+markdown: redcarpet
+pygments: true
+baseurl: /testing_git
